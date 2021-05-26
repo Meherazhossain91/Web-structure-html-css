@@ -1,0 +1,62 @@
+.one{
+    height: 1200px;
+    width: 1200px;
+    background-color:forestgreen;
+}
+.two{
+    height: 300px;
+    width: 1200px;
+    background-color:  #4ec1b4;
+}
+nav ul {
+    list-style: none;
+}
+nav ul li{
+    margin-top: 30px;
+    display: inline-block;
+    margin-left: 120px;
+    transition: 0.4s;
+    font-size: 21px;
+    font-family: monospace;
+}
+nav ul li:hover{
+    color: #ce6969;
+    background-color: rgb(0, 0, 0.69);
+}
+.three{
+    height: 700px;
+    width: 1200px;
+    background: url(img/bannar.jpg);
+    display: inline-block;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 300px;
+
+}
+.four{
+    height: 300px;
+    width: 1200px;
+    background-color:black;
+     
+}
+.five{
+    height: 300px;
+    width: 300px;
+    background-color:cornflowerblue;
+    float: left;
+    margin-right: 70px;
+}
+.six{
+    height: 300px;
+    width: 300px;
+    background-color: darkorchid;
+    float: left;
+    margin-right: 70px;
+}
+.seven{
+    height: 300px;
+    width: 300px;
+    background-color: darksalmon ;
+    float: left;
+}
